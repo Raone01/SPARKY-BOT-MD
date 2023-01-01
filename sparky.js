@@ -2579,7 +2579,7 @@ case 'tiktoknowm':
 			case 'tt':
 			    if (!text) return m.reply('𝘓𝘪𝘯𝘬 𝘕𝘺𝘢 𝘔𝘢𝘯𝘢??')
 				let p = await fdl.downloader.tiktok(q)
-				let nih = ` 𝘔𝘢𝘥𝘦 𝘉𝘺 ${author} SUBSCRIBE https://www.youtube.com/@sparkymon777`
+				let nih = ` 𝘔𝘢𝘥𝘦 𝘉𝘺 ${author} SUBSCRIBE https://www.youtube.com/@jamietech`
 				let buttons = [
                     {buttonId: `tiktokmp3 ${text}`, buttonText: {displayText: '♫ Audio'}, type: 1}
                 ]
@@ -5836,106 +5836,106 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "Jamie-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
+								"title": "Jamie-MULTIDEVICE",
 								"rows": [
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘖𝘵𝘩𝘦𝘳",
+										"title": "OTHER MENU",
 										"description": "Displays The List Of Other Features",
 										"rowId": `${prefix}othermenu`
 									}
 								]
 							},
 							{
-								"title": "𝙻𝚒𝚜𝚝 Jamie-𝙼𝚍️",
+								"title": "List Jamie-MD",
 								"rows": [
 									{
 										"title": "ALL MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}allmenu`
 									},
 									{
 										"title": "OWNER MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}ownermenu`
 										},
 									{
 										"title": "GROUP MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}groupmenu`
 										},
 										{
-										"title": "𝘔𝘦𝘯𝘶 𝘔𝘢𝘬𝘦𝘳",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "MAKER MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}makermenu`
 									},
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘚𝘰𝘶𝘯𝘥",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "SOUND MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}soundmenu`
 									},
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘋𝘰𝘯𝘸𝘭𝘰𝘢𝘥𝘦𝘳",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "DOWNLOAD MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}downloadmenu`
 									},
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘚𝘵𝘪𝘤𝘬𝘦𝘳",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "STICKER MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}stickermenu`
 									},
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘚𝘦𝘢𝘳𝘤𝘩",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "SEARCH MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}searchmenu`
 									},
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘙𝘢𝘯𝘥𝘰𝘮 𝘐𝘮𝘢𝘨𝘦",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "RANDOM IMAGE MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}randomimagemenu`
 									},
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘐𝘮𝘢𝘨𝘦 𝘌𝘧𝘧𝘦𝘤𝘵️",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "IMAGE EFFECT MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}imageeffectmenu`
 									},
 										{
-											"title": "𝘔𝘦𝘯𝘶 𝘈𝘯𝘪𝘮𝘦",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+											"title": "ANIME MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}animemenu`
 										},
 										{
-											"title": "𝘔𝘦𝘯𝘶 𝘌𝘮𝘰𝘵𝘦",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+											"title": "EMOTE MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}emotemenu`
 										},
 										{
-										"title": "𝘔𝘦𝘯𝘶 𝘚𝘵𝘪𝘤𝘬𝘦𝘳 𝘈𝘯𝘪𝘮𝘦",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "ANIME STICKER MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}animestickermenu`
 									     },
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘕𝘴𝘧𝘸",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "NSFW MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}nsfwmenu`
 									     },
 										{
 											"title": "FUN MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}funmenu`
 										},
 										{
 										"title": "GAME MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}gamemenu`
 									},
 										{
 											"title": "CONVERTER MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}convertmenu`
 										},
 										{
 											"title": "DATABASE MENU",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}databasemenu`
 										}
 								]
@@ -5944,8 +5944,8 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"title": "𝚁𝚘𝚊𝚖 𝙲𝚑𝚊𝚝",
 								"rows": [
 									{
-										"title": "𝘔𝘦𝘯𝘶 𝘈𝘯𝘰𝘯𝘺𝘮𝘰𝘶𝘴 𝘊𝘩𝘢𝘵",
-										"description": "𝚂𝙿𝙰𝚁𝙺𝚈 𝙱𝙾𝚃 𝙼𝙳+ 𝙱𝚢 𝙰𝚜𝚠𝚒𝚗 𝚂𝚙𝚊𝚛𝚔𝚢",
+										"title": "ANONYMOUS CHAT MENU",
+										"description": "BOT by JAMIE",
 										"rowId": `${prefix}anonymousmenu`
 									}
 								]
@@ -5955,7 +5955,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								"rows": [
 									{
 										"title": "Thanks To ❤️",
-										"description": "SUBSCRIBE MY CHANNEL VRO",
+										"description": "SUBSCRIBE BRO",
 										"rowId": `${prefix}tqto`
 									}
 								]
@@ -5980,11 +5980,11 @@ let hariRayaramadan = new Date('April 21, 2023 23:59:59')
      let jamm = Math.floor( lebih % (1000 * 60 * 60 * 24) / (1000 * 60 * 60)) 
      let menitt = Math.floor( lebih % (1000 * 60 * 60) / (1000 * 60)) 
      let detikk = Math.floor( lebih % (1000 * 60) / 1000) 
-let fot = `MADE BY ASWIN SPARKY
+let fot = `MADE BY JAMIE KIZZA
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jamie Kizza',
+text: '©JAMIEKIZZA',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
