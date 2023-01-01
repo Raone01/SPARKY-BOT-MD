@@ -40,9 +40,9 @@ const ini_mark = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
 
 //TIME
-const xtime = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xtime = moment.tz('Africa/Kampala').format('HH:mm:ss')
+const xdate = moment.tz('Africa/Kampala').format('DD/MM/YYYY')
+const time2 = moment().tz('Africa/Kampala').format('HH:mm:ss')  
  if(time2 < "23:59:00"){
 var ucapanWaktu = 'Good night 🌌'
  }
@@ -217,14 +217,14 @@ module.exports = XeonBotInc = async (XeonBotInc, m, chatUpdate, store) => {
             if (typeof setting !== 'object') global.db.data.settings[botNumber] = {}
 	    if (setting) {
 		if (!isNumber(setting.status)) setting.status = 0
-		if (!('autobio' in setting)) setting.autobio = false
+		if (!('autobio' in setting)) setting.autobio = true
 		if (!('templateImage' in setting)) setting.templateImage = true
 		if (!('templateVideo' in setting)) setting.templateVideo = false
 		if (!('templateGif' in setting)) setting.templateGif = false
 		if (!('templateMsg' in setting)) setting.templateMsg = false	
 	    } else global.db.data.settings[botNumber] = {
 		status: 0,
-		autobio: false,
+		autobio: true,
 		templateImage: true,
 		templateVideo: false,
 		templateGif: false,
@@ -265,7 +265,7 @@ XeonBotInc.sendMessage(m.chat, {
             console.log('Reseted Limit')
         }, {
             scheduled: true,
-            timezone: "Asia/Kolkata"
+            timezone: "Africa/Kampala"
         })   
         
 // total hit
@@ -571,7 +571,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "14169948404-1305080833
 "previewType": "PHOTO",
 "showAdAttribution": true,
 "sourceUrl": websitex,
-"thumbnailUrl": 'https://i.ibb.co/txS3dDZ/Screenshot-2022-1030-154916.jpg', 
+"thumbnailUrl": 'https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?', 
 "thumbnail": xeonbugpic,
 }}}
 
@@ -580,7 +580,7 @@ const bhosdike = (teks) => {
 previewType: "PHOTO",
 showAdAttribution: true,
 sourceUrl: websitex,
-thumbnailUrl: 'https://i.ibb.co/txS3dDZ/Screenshot-2022-1030-154916.jpg', 
+thumbnailUrl: 'https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?', 
 thumbnail: xeonbugpic,
 }
 }}, { quoted:xezy})
@@ -1011,8 +1011,8 @@ title:"Want to Donate? Type Owner",
 body: "Click to Suscribe", 
 thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://youtube.com/@sparkymon777',
-sourceUrl: "https://youtube.com/@sparkymon777"
+mediaUrl: 'https://youtube.com/@jamietech',
+sourceUrl: "https://youtube.com/@jamietech"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: fkontak })
@@ -1024,7 +1024,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://i.imgur.com/iaWuQRB.jpeg`},
+image: {url: `https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
@@ -1035,8 +1035,8 @@ title:"Want to Donate? Type Owner",
 body: "Click to donate", 
 thumbnail: fs.readFileSync("Media/theme/cheemspic.jpg"),
 mediaType:1,
-mediaUrl: 'https://youtube.com/@sparkymon777',
-sourceUrl: "https://youtube.com/@sparkymon777"
+mediaUrl: 'https://youtube.com/@jamietech',
+sourceUrl: "https://youtube.com/@jamietech"
 }}
 }
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: ftroli })
@@ -5702,7 +5702,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER SPARKY`,
+"text": `MY DEVELOPER JAMIE`,
 }
 }}), { userJid: m.chat, quoted: doc})
 XeonBotInc.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -5723,7 +5723,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER SPARKY`,
+"text": `MY DEVELOPER JAMIE`,
 }
 }}), { userJid: m.chat, quoted: doc})
 XeonBotInc.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -5769,10 +5769,10 @@ break
 case 'tqto': 
 throw `Thanks to
 ┏═┅〔 *SUPPORT* 〕┅═
-┃⫹⫺ 𝚇𝚎𝚘𝚗
+┃⫹⫺ Jamie
 ┃⫹⫺ Aswin Sparky
 ┃⫹⫺ Andi_mr_lit
-┗═┅〔 *Made By Sparky* 〕┅═`
+┗═┅〔 *Made By Jamie* 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5836,7 +5836,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             break
             case 'command': {
 	const sections = [{
-								"title": "Sparky-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
+								"title": "Jamie-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎",
 								"rows": [
 									{
 										"title": "𝘔𝘦𝘯𝘶 𝘖𝘵𝘩𝘦𝘳",
@@ -5846,7 +5846,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "𝙻𝚒𝚜𝚝 Sparky-𝙼𝚍️",
+								"title": "𝙻𝚒𝚜𝚝 Jamie-𝙼𝚍️",
 								"rows": [
 									{
 										"title": "ALL MENU",
@@ -5971,7 +5971,7 @@ let con = `┏─────────────────⬣
 ┏┤   Calender
 ┆┗──────────────┈ ⳹
 ┆♠︎ 𝚄𝚙𝚝𝚒𝚖𝚎 : ${runtime(process.uptime())}
-┆♠︎ 𝚃𝚒𝚖𝚎 :  ${moment.tz('Asia/Jakarta').format('HH')} H${moment.tz('Asia/Jakarta').format('mm')} M${moment.tz('Asia/Jakarta').format('ss')} S
+┆♠︎ 𝚃𝚒𝚖𝚎 :  ${moment.tz('Africa/Kampala').format('HH')} H${moment.tz('Africa/Kampala').format('mm')} M${moment.tz('Africa/Kampala').format('ss')} S
 ┗─────────────────⬣`
 let hariRayaramadan = new Date('April 21, 2023 23:59:59') 
      let sekarangg = new Date().getTime() 
@@ -5984,7 +5984,7 @@ let fot = `MADE BY ASWIN SPARKY
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Aswin Sparky',
+text: 'Made By Jamie Kizza',
 title: con,
 buttonText: `CLICK HERE ⎙`, 
 sections
