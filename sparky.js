@@ -5904,7 +5904,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 										"rowId": `${prefix}animemenu`
 										},
 										{
-											"title": "EMOTE MENU",
+											"title": "EMOJI MENU",
 										"description": "BOT by JAMIE",
 										"rowId": `${prefix}emotemenu`
 										},
@@ -5941,7 +5941,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 								]
 							},
 							{
-								"title": "𝚁𝚘𝚊𝚖 𝙲𝚑𝚊𝚝",
+								"title": "CHAT ROOM",
 								"rows": [
 									{
 										"title": "ANONYMOUS CHAT MENU",
