@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //name
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
-global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
-global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
+global.vcardowner = ['256777185053'] //ganti nomer lu
+global.ownername = "JAMIE KIZZA" //ganti nama lu
+global.developer = "JAMIE" //name
+global.ytname = "YT: JAMIE TECH" //ur yt chanel name
+global.socialm = "https://www.instagram.com/kizzajamie" //taroh sosialmedia lu kalo ga punya biarin aja
+global.sgc = "https://chat.whatsapp.com/FxHBLsS3GbJ5vMUpNb4lVa" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
-global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
-global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
-global.websitex1 = "https://sparkymodswa.blogspot.com"
-global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
+global.owner = ['256777185053'] //ur number
+global.ownernomer = "256777185053" //ur number
+global.ownertag = '256777185053' //ur tag number
+global.premium = ['256777185053'] //ur premium number
+global.botname = 'JAMIE MD+' //ur bot name
+global.ownername = "JAMIE KIZZA"
+global.linkz = "https://youtube.com/@jamietech" //your theme url which will be displayed on whatsapp
+global.dana = "256777185053"
+global.pulsa = "256777185053"
+global.websitex = "https://youtube.com/@jamietech" //ur website to be displayed
+global.websitex1 = "https://clic.ly/kizzajamie"
+global.botscript = 'https://github.com/kizzajamie/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "JAMIE" //ur sticker watermark packname
+global.author = "JAMIE" //ur sticker watermark author
+global.wm = "J A M I E" //ur watermark
 
 // Other
 global.sessionName = 'session'
