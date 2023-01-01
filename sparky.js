@@ -1000,7 +1000,7 @@ let buttons = [
 {buttonId: `owner`, buttonText: {displayText: 'Owner 🌺'}, type: 1}
 ]
 let buttonMessage = {
-image: {url: `https://i.imgur.com/iaWuQRB.jpeg`},
+image: {url: `https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?`},
 jpegThumbnail: log0,
 caption: teks,
 footer: `${botname}`,
