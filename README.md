@@ -2,11 +2,11 @@
 
 <h1 align="center">SPARKY-BOT-MD<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/u9RfIfy.jpeg" alt="animated" width="255" height="350" />
+<img src="https://i.ibb.co/c80cZ3Y/pp-biodata.jpg?v=4&s=10?" alt="animated" width="350" height="350" />
 </p>
 
 <p align="center">
-Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sparkymon777" target="_blank">Aswin Sparky</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/kizzajamie" target="_blank">JAMIE KIZZA</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Sparky Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/917012984396"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254103585351"><img src="https://img.shields.io/badge/Contact SPARKY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/@sparkymon777"><img src="https://img.shields.io/badge/Subscribe SPARKY'S CHANNEL-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
