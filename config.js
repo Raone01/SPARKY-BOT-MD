@@ -23,15 +23,15 @@ global.sgc = "https://chat.whatsapp.com/FxHBLsS3GbJ5vMUpNb4lVa" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['256777185053'] //ur number
-global.ownernomer = "256777185053" //ur number
+global.owner = ['256758761762'] //ur number
+global.ownernomer = "256758761772" //ur number
 global.ownertag = '256777185053' //ur tag number
-global.premium = ['256777185053'] //ur premium number
+global.premium = ['256702923100'] //ur premium number
 global.botname = 'JAMIE MD+' //ur bot name
 global.ownername = "JAMIE KIZZA"
 global.linkz = "https://youtube.com/@jamietech" //your theme url which will be displayed on whatsapp
-global.dana = "256777185053"
-global.pulsa = "256777185053"
+global.dana = "0777185053"
+global.pulsa = "©JAMIE.K"
 global.websitex = "https://youtube.com/@jamietech" //ur website to be displayed
 global.websitex1 = "https://clic.ly/kizzajamie"
 global.botscript = 'https://github.com/kizzajamie/SPARKY-BOT-MD' //script link
