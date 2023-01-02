@@ -24,8 +24,8 @@ global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
 global.owner = ['256758761762'] //ur number
-global.ownernomer = "256758761772" //ur number
-global.ownertag = '256777185053' //ur tag number
+global.ownernomer = "256758761762" //ur number
+global.ownertag = '0777185053' //ur tag number
 global.premium = ['256702923100'] //ur premium number
 global.botname = 'JAMIE MD+' //ur bot name
 global.ownername = "JAMIE KIZZA"
